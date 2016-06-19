@@ -1,0 +1,226 @@
+<html>
+<body>
+<pre>
+<h1>µVision3 Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Tom\Documents\GitHub\LCD-Display\Project.uv2
+Project File Date:  06/18/2016
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling STARTUP.A51...
+assembling Programm.asm...
+Programm.asm(6): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(7): error A17: INVALID BYTE BASE IN BIT ADDRESS EXPRESSION
+Programm.asm(8): error A17: INVALID BYTE BASE IN BIT ADDRESS EXPRESSION
+Programm.asm(9): error A17: INVALID BYTE BASE IN BIT ADDRESS EXPRESSION
+Programm.asm(16): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(36): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(37): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(41): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(43): error A48: DATA-ADDRESS EXPECTED
+Programm.asm(44): error A48: DATA-ADDRESS EXPECTED
+Programm.asm(45): error A15: MISSING FACTOR
+Programm.asm(45): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(46): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(52): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(60): error A48: DATA-ADDRESS EXPECTED
+Programm.asm(61): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(62): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(63): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(64): error A48: DATA-ADDRESS EXPECTED
+Programm.asm(65): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(66): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(67): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(68): warning A41: MISSING 'END' STATEMENT
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+assembling Programm.asm...
+Programm.asm(6): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(7): error A17: INVALID BYTE BASE IN BIT ADDRESS EXPRESSION
+Programm.asm(8): error A17: INVALID BYTE BASE IN BIT ADDRESS EXPRESSION
+Programm.asm(9): error A17: INVALID BYTE BASE IN BIT ADDRESS EXPRESSION
+Programm.asm(16): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(36): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(37): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(41): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(43): error A48: DATA-ADDRESS EXPECTED
+Programm.asm(44): error A48: DATA-ADDRESS EXPECTED
+Programm.asm(45): error A15: MISSING FACTOR
+Programm.asm(45): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(46): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(52): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(60): error A48: DATA-ADDRESS EXPECTED
+Programm.asm(61): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(62): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(63): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(64): error A48: DATA-ADDRESS EXPECTED
+Programm.asm(65): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(66): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(67): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(68): warning A41: MISSING 'END' STATEMENT
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+assembling Programm.asm...
+Programm.asm(6): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(7): error A17: INVALID BYTE BASE IN BIT ADDRESS EXPRESSION
+Programm.asm(8): error A17: INVALID BYTE BASE IN BIT ADDRESS EXPRESSION
+Programm.asm(9): error A17: INVALID BYTE BASE IN BIT ADDRESS EXPRESSION
+Programm.asm(16): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(36): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(37): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(41): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(43): error A48: DATA-ADDRESS EXPECTED
+Programm.asm(44): error A48: DATA-ADDRESS EXPECTED
+Programm.asm(45): error A15: MISSING FACTOR
+Programm.asm(45): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(46): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(52): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(60): error A48: DATA-ADDRESS EXPECTED
+Programm.asm(61): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(62): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(63): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(64): error A48: DATA-ADDRESS EXPECTED
+Programm.asm(65): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(66): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(67): error A45: UNDEFINED SYMBOL (PASS-2)
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+assembling Programm.asm...
+Programm.asm(6): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(7): error A17: INVALID BYTE BASE IN BIT ADDRESS EXPRESSION
+Programm.asm(8): error A17: INVALID BYTE BASE IN BIT ADDRESS EXPRESSION
+Programm.asm(9): error A17: INVALID BYTE BASE IN BIT ADDRESS EXPRESSION
+Programm.asm(16): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(36): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(37): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(41): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(43): error A48: DATA-ADDRESS EXPECTED
+Programm.asm(44): error A48: DATA-ADDRESS EXPECTED
+Programm.asm(45): error A15: MISSING FACTOR
+Programm.asm(45): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(46): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(52): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(60): error A48: DATA-ADDRESS EXPECTED
+Programm.asm(61): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(62): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(63): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(64): error A48: DATA-ADDRESS EXPECTED
+Programm.asm(65): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(66): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(67): error A45: UNDEFINED SYMBOL (PASS-2)
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+assembling Programm.asm...
+Programm.asm(36): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(37): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(45): error A15: MISSING FACTOR
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+assembling Programm.asm...
+Programm.asm(36): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(37): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(45): error A15: MISSING FACTOR
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+assembling Programm.asm...
+Programm.asm(15): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(21): error A9: SYNTAX ERROR
+Programm.asm(21): error A9: SYNTAX ERROR
+Programm.asm(23): error A45: UNDEFINED SYMBOL (PASS-2)
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+assembling Programm.asm...
+Programm.asm(15): error A45: UNDEFINED SYMBOL (PASS-2)
+Programm.asm(23): error A45: UNDEFINED SYMBOL (PASS-2)
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+assembling Programm.asm...
+Programm.asm(15): error A45: UNDEFINED SYMBOL (PASS-2)
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+assembling Programm.asm...
+Programm.asm(15): error A45: UNDEFINED SYMBOL (PASS-2)
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+assembling Programm.asm...
+Programm.asm(15): error A45: UNDEFINED SYMBOL (PASS-2)
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+assembling Programm.asm...
+linking...
+*** WARNING L5: CODE SPACE MEMORY OVERLAP
+    FROM:    0000H
+    TO:      0002H
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  ?C_START
+    MODULE:  STARTUP.obj (?C_STARTUP)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  ?C_START
+    MODULE:  STARTUP.obj (?C_STARTUP)
+    ADDRESS: 080AH
+Program Size: data=9.0 xdata=0 code=119
+creating hex file from "Project"...
+"Project" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+assembling Programm.asm...
+linking...
+*** WARNING L5: CODE SPACE MEMORY OVERLAP
+    FROM:    0000H
+    TO:      0002H
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  ?C_START
+    MODULE:  STARTUP.obj (?C_STARTUP)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  ?C_START
+    MODULE:  STARTUP.obj (?C_STARTUP)
+    ADDRESS: 080AH
+Program Size: data=9.0 xdata=0 code=119
+creating hex file from "Project"...
+"Project" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+assembling Programm.asm...
+linking...
+*** WARNING L5: CODE SPACE MEMORY OVERLAP
+    FROM:    0000H
+    TO:      0002H
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  ?C_START
+    MODULE:  STARTUP.obj (?C_STARTUP)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  ?C_START
+    MODULE:  STARTUP.obj (?C_STARTUP)
+    ADDRESS: 080AH
+Program Size: data=9.0 xdata=0 code=119
+creating hex file from "Project"...
+"Project" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+assembling Programm.asm...
+linking...
+*** WARNING L5: CODE SPACE MEMORY OVERLAP
+    FROM:    0000H
+    TO:      0002H
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  ?C_START
+    MODULE:  STARTUP.obj (?C_STARTUP)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  ?C_START
+    MODULE:  STARTUP.obj (?C_STARTUP)
+    ADDRESS: 080AH
+Program Size: data=9.0 xdata=0 code=176
+creating hex file from "Project"...
+"Project" - 0 Error(s), 3 Warning(s).

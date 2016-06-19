@@ -1,0 +1,122 @@
+A51 MACRO ASSEMBLER  PROGRAMM                                                             06/19/2016 00:20:52 PAGE     1
+
+
+MACRO ASSEMBLER A51 V8.00
+OBJECT MODULE PLACED IN Programm.OBJ
+ASSEMBLER INVOKED BY: C:\Keil\C51\BIN\A51.EXE Programm.asm SET(SMALL) DEBUG EP
+
+LOC  OBJ            LINE     SOURCE
+
+0000 7438              1     MOV A,#38H  
+0002 1172              2     ACALL CMND
+0004 740F              3     MOV A,#0FH  
+0006 1172              4     ACALL CMND
+0008 7401              5     MOV A,#01H  
+000A 1172              6     ACALL CMND
+000C 7406              7     MOV A,#06H  
+000E 1172              8     ACALL CMND
+0010 7482              9     MOV A,#82H  
+0012 1172             10     ACALL CMND
+0014 743C             11     MOV A,#3CH  
+0016 1172             12     ACALL CMND
+0018 7431             13     MOV A,#49D
+001A 117F             14     ACALL DISP
+001C 7436             15     MOV A,#54D
+001E 117F             16     ACALL DISP
+0020 7458             17     MOV A,#88D
+0022 117F             18     ACALL DISP
+0024 7432             19     MOV A,#50D
+0026 117F             20     ACALL DISP
+0028 7420             21     MOV A,#32D
+002A 117F             22     ACALL DISP
+002C 744C             23     MOV A,#76D
+002E 117F             24     ACALL DISP
+0030 7443             25     MOV A,#67D
+0032 117F             26     ACALL DISP
+0034 7444             27     MOV A,#68D
+0036 117F             28     ACALL DISP
+                      29     
+0038 74C1             30     MOV A,#0C1H  
+003A 1172             31     ACALL CMND
+                      32     
+003C 7443             33     MOV A,#67D
+003E 117F             34     ACALL DISP
+0040 7449             35     MOV A,#73D
+0042 117F             36     ACALL DISP
+0044 7452             37     MOV A,#82D
+0046 117F             38     ACALL DISP
+0048 7443             39     MOV A,#67D
+004A 117F             40     ACALL DISP
+004C 7455             41     MOV A,#85D
+004E 117F             42     ACALL DISP
+0050 7449             43     MOV A,#73D
+0052 117F             44     ACALL DISP
+0054 7454             45     MOV A,#84D
+0056 117F             46     ACALL DISP
+0058 7453             47     MOV A,#83D
+005A 117F             48     ACALL DISP
+005C 7454             49     MOV A,#84D
+005E 117F             50     ACALL DISP
+0060 744F             51     MOV A,#79D
+0062 117F             52     ACALL DISP
+0064 7444             53     MOV A,#68D
+0066 117F             54     ACALL DISP
+0068 7441             55     MOV A,#65D
+006A 117F             56     ACALL DISP
+006C 7459             57     MOV A,#89D
+006E 117F             58     ACALL DISP
+A51 MACRO ASSEMBLER  PROGRAMM                                                             06/19/2016 00:20:52 PAGE     2
+
+                      59     
+0070 80FE             60     HERE: SJMP HERE
+                      61     
+0072 F590             62     CMND: MOV P1,A
+0074 C2B5             63     CLR P3.5
+0076 C2B4             64     CLR P3.4
+0078 D2B3             65     SETB P3.3
+007A C2B3             66     CLR P3.3
+007C 118C             67     ACALL DELY
+007E 22               68     RET
+                      69     
+007F F590             70     DISP:MOV P1,A
+0081 D2B5             71     SETB P3.5
+0083 C2B4             72     CLR P3.4
+0085 D2B3             73     SETB P3.3
+0087 C2B3             74     CLR P3.3
+0089 118C             75     ACALL DELY
+008B 22               76     RET
+                      77     
+008C C2B3             78     DELY: CLR P3.3
+008E C2B5             79     CLR P3.5
+0090 D2B4             80     SETB P3.4
+0092 7590FF           81     MOV P1,#0FFh
+0095 D2B3             82     SETB P3.3
+0097 E590             83     MOV A,P1
+0099 20E7F0           84     JB ACC.7,DELY
+                      85     
+009C C2B3             86     CLR P3.3
+009E C2B4             87     CLR P3.4
+00A0 22               88     RET
+                      89     
+                      90     END
+A51 MACRO ASSEMBLER  PROGRAMM                                                             06/19/2016 00:20:52 PAGE     3
+
+SYMBOL TABLE LISTING
+------ ----- -------
+
+
+N A M E             T Y P E  V A L U E   ATTRIBUTES
+
+ACC. . . . . . . .  D ADDR   00E0H   A   
+CMND . . . . . . .  C ADDR   0072H   A   
+DELY . . . . . . .  C ADDR   008CH   A   
+DISP . . . . . . .  C ADDR   007FH   A   
+HERE . . . . . . .  C ADDR   0070H   A   
+P1 . . . . . . . .  D ADDR   0090H   A   
+P3 . . . . . . . .  D ADDR   00B0H   A   
+
+
+REGISTER BANK(S) USED: 0 
+
+
+ASSEMBLY COMPLETE.  0 WARNING(S), 0 ERROR(S)
